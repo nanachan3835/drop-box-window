@@ -18,9 +18,21 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="R2FileSync.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalFileTracking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RemoteFileSync.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R2FileSync.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalFileTracking.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
