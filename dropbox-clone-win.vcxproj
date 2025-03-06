@@ -137,6 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LocalFileTracking.h" />
+    <ClInclude Include="PocoNet.h" />
     <ClInclude Include="R2FileSync.h" />
     <ClInclude Include="RemoteFileSync.h" />
   </ItemGroup>

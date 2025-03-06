@@ -35,5 +35,8 @@
     <ClInclude Include="LocalFileTracking.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PocoNet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
